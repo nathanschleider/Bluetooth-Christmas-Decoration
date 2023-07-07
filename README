@@ -1,1 +1,1 @@
-
+This project will be a christmas decoration featuring different coloured LEDs controlled using an Arduino Nano clone, using shift registers as port extenders to control the LEDs. The aim is to eventually integrate this with a phone app via BLE to control the sequences played by the LEDs.
